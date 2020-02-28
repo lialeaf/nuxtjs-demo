@@ -1,7 +1,7 @@
 {
-  "name": "nuxtjs",
+  "name": "nuxtjs-demo",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt.js project",
+  "description": "",
   "author": "msweeneydev",
   "private": true,
   "scripts": {
@@ -14,5 +14,6 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
-  }
+  },
+  "keywords": []
 }
