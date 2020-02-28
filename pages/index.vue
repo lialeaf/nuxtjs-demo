@@ -8,6 +8,9 @@
       <h2 class="subtitle">
         My astonishing Nuxt.js project
       </h2>
+      <h2 class="subtitle">
+        Thsi Nuxt.js project if rom git/nuxtjs-demo.
+      </h2>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
